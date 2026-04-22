@@ -1,5 +1,3 @@
-Aybars Barut
-
 ### 🚀 Unity & C# Developer | AI & RAG Enthusiast
 
 I am a passionate developer focused on building high-performance Unity tools, exploring the latest in AI and Retrieval-Augmented Generation (RAG), and creating seamless digital experiences.
