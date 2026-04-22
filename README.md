@@ -25,7 +25,7 @@ I am a passionate developer focused on building high-performance Unity tools, ex
 
 - **LinkedIn:** [Aybars Barut](https://www.linkedin.com/in/aybarsbarut/)
 - **StackOverflow:** [AybarsBarut](https://stackoverflow.com/users/your-id)
-- **Portfolio:** [aybarsbarut.com](https://aybarsbarut.com)
+- **Portfolio:** [aybarsbarut.com](https://aybarsbarut.github.io/FahriAybarsBarut/)
 
 ---
 
