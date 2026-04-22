@@ -1,12 +1,12 @@
-# Hi there, I'm Aybars Barut! ğŸ‘‹
+# Hi there, I'm Aybars Barut! 👋
 
-### ğŸš€ Unity & C# Developer | AI & RAG Enthusiast
+### 🚀 Unity & C# Developer | AI & RAG Enthusiast
 
 I am a passionate developer focused on building high-performance Unity tools, exploring the latest in AI and Retrieval-Augmented Generation (RAG), and creating seamless digital experiences.
 
 ---
 
-### ğŸ› ï¸ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 - **Languages:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 - **Game Engine:** ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
@@ -15,7 +15,7 @@ I am a passionate developer focused on building high-performance Unity tools, ex
 
 ---
 
-### ğŸ“Š Highlighted Projects
+### 📊 Highlighted Projects
 
 - **[AnayasalRAGai](https://github.com/AybarsBarut/AnayasalRAGai):** AI-powered legal assistant for the Turkish Constitution using RAG.
 - **[Unity Project Hygiene Tool](https://github.com/AybarsBarut/Unity_Project_Hygiene_Tool):** Professional automation tool for Unity project organization.
@@ -23,7 +23,7 @@ I am a passionate developer focused on building high-performance Unity tools, ex
 
 ---
 
-### ğŸ“« Reach Me
+### 📫 Reach Me
 
 - **LinkedIn:** [Aybars Barut](https://www.linkedin.com/in/aybarsbarut/)
 - **StackOverflow:** [AybarsBarut](https://stackoverflow.com/users/your-id)
@@ -31,6 +31,6 @@ I am a passionate developer focused on building high-performance Unity tools, ex
 
 ---
 
-### ğŸ“ˆ Stats
+### 📈 Stats
 ![Aybars's GitHub stats](https://github-readme-stats.vercel.app/api?username=AybarsBarut&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AybarsBarut&layout=compact&theme=radical)
