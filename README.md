@@ -1,4 +1,4 @@
-# Hi there, I'm Aybars Barut! 👋
+Aybars Barut
 
 ### 🚀 Unity & C# Developer | AI & RAG Enthusiast
 
