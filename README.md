@@ -33,8 +33,6 @@ Unity, C#, .NET, Python, FastAPI, RAG, Ollama, ChromaDB, C++, SDL2, OpenGL, Powe
 - LinkedIn: [Fahri Aybars Barut](https://www.linkedin.com/in/fahriaybarsbarut1853/)
 
 ## GitHub Stats
-
-![Aybars's GitHub stats](https://github-readme-stats.vercel.app/api?username=AybarsBarut&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AybarsBarut&layout=compact&theme=radical)
 
 ## SEO Keywords
