@@ -29,11 +29,8 @@ Unity, C#, .NET, Python, FastAPI, RAG, Ollama, ChromaDB, C++, SDL2, OpenGL, Powe
 
 ## Portfolio
 
-- Portfolio website: [aybarsbarut.github.io/FahriAybarsBarut](https://aybarsbarut.vercel.app/)
+- Portfolio website: [Portfolio](https://aybarsbarut.vercel.app/)
 - LinkedIn: [Fahri Aybars Barut](https://www.linkedin.com/in/fahriaybarsbarut1853/)
-
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AybarsBarut&layout=compact&theme=radical)
 
 ## SEO Keywords
 
