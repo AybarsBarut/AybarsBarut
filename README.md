@@ -29,7 +29,7 @@ Unity, C#, .NET, Python, FastAPI, RAG, Ollama, ChromaDB, C++, SDL2, OpenGL, Powe
 
 ## Portfolio
 
-- Portfolio website: [Portfolio](https://aybarsbarut.vercel.app/)
+- Portfolio website: [Portfolio](https://fahri-aybars-barut.vercel.app/)
 - LinkedIn: [Fahri Aybars Barut](https://www.linkedin.com/in/fahriaybarsbarut1853/)
 
 ## SEO Keywords
