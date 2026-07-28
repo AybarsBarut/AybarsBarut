@@ -1,9 +1,3 @@
-    ___         __                       ____                   __        
-   /   | __  __/ /_  ____ ___________   / __ )____ ________  __/ /_         
-  / /| |/ / / / __ \/ __ `/ ___/ ___/  / __  / __ `/ ___/ / / / __/            
- / ___ / /_/ / /_/ / /_/ / /  (__  )  / /_/ / /_/ / /  / /_/ / /_           
-/_/  |_\__, /_.___/\__,_/_/  /____/  /_____/\__,_/_/   \__,_/\__/          
-      /____/                                                       
 ![Unity Developer](https://img.shields.io/badge/Unity-Developer-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-Tools%20%26%20Gameplay-239120?logo=csharp) ![AI RAG](https://img.shields.io/badge/AI-RAG%20Systems-blue) ![Performance](https://img.shields.io/badge/focus-Performance%20Tools-green)
 
 I build practical tools for Unity, C# workflows, AI/RAG systems, game performance, and developer productivity. My repositories focus on editor automation, VR/XR diagnostics, asset optimization, Windows utilities, custom game engine experiments, and Turkish legal AI datasets.
