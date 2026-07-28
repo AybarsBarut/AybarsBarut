@@ -1,4 +1,4 @@
-<img width="498" height="108" alt="rgb-line" src="https://github.com/user-attachments/assets/4a1c9593-1c70-4668-96a8-bfaba24bc8f3" />
+<img width="498" height="142" alt="line-neon" src="https://github.com/user-attachments/assets/7e448492-2798-4675-8bc2-288b86191ae8" />
 
 ![Unity Developer](https://img.shields.io/badge/Unity-Developer-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-Tools%20%26%20Gameplay-239120?logo=csharp) ![AI RAG](https://img.shields.io/badge/AI-RAG%20Systems-blue) ![Performance](https://img.shields.io/badge/focus-Performance%20Tools-green)
 
@@ -35,4 +35,4 @@ Unity, C#, .NET, Python, FastAPI, RAG, Ollama, ChromaDB, C++, SDL2, OpenGL, Powe
 ## SEO Keywords
 
 Unity developer, C# game developer, Unity editor tools, Unity performance optimization, VR performance profiler, AI RAG developer, Turkish legal AI, game development tools, C++ game engine, PowerShell Windows utilities, developer productivity tools.
-<img width="498" height="108" alt="rgb-line" src="https://github.com/user-attachments/assets/83fd291d-9f9d-4342-8b6d-737ce5d474ab" />
+<img width="498" height="142" alt="line-neon" src="https://github.com/user-attachments/assets/48586e83-9237-4ed5-83aa-6be6dd1ced5e" />
