@@ -1,4 +1,9 @@
-<img width="458" height="100" alt="ascii-art-text" src="https://github.com/user-attachments/assets/86835cdb-9b42-4f76-b0b4-390565e8726e" />
+    ___         __                       ____                   __ 
+   /   | __  __/ /_  ____ ___________   / __ )____ ________  __/ /_
+  / /| |/ / / / __ \/ __ `/ ___/ ___/  / __  / __ `/ ___/ / / / __/
+ / ___ / /_/ / /_/ / /_/ / /  (__  )  / /_/ / /_/ / /  / /_/ / /_  
+/_/  |_\__, /_.___/\__,_/_/  /____/  /_____/\__,_/_/   \__,_/\__/  
+      /____/                                                       
 
 ![Unity Developer](https://img.shields.io/badge/Unity-Developer-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-Tools%20%26%20Gameplay-239120?logo=csharp) ![AI RAG](https://img.shields.io/badge/AI-RAG%20Systems-blue) ![Performance](https://img.shields.io/badge/focus-Performance%20Tools-green)
 
