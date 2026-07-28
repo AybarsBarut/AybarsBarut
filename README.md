@@ -1,4 +1,3 @@
-# Aybars Barut
 <img width="458" height="100" alt="ascii-art-text" src="https://github.com/user-attachments/assets/86835cdb-9b42-4f76-b0b4-390565e8726e" />
 
 ![Unity Developer](https://img.shields.io/badge/Unity-Developer-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-Tools%20%26%20Gameplay-239120?logo=csharp) ![AI RAG](https://img.shields.io/badge/AI-RAG%20Systems-blue) ![Performance](https://img.shields.io/badge/focus-Performance%20Tools-green)
