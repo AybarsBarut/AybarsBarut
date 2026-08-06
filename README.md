@@ -1,3 +1,6 @@
+# Fahri Aybars Barut
+
+**Computer Engineer | Simulation & VR/XR Developer | Unity, Unreal Engine, C++, C#, Python & AI/RAG**
 
 ![Unity Developer](https://img.shields.io/badge/Unity-Developer-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-Tools%20%26%20Gameplay-239120?logo=csharp) ![AI RAG](https://img.shields.io/badge/AI-RAG%20Systems-blue) ![Performance](https://img.shields.io/badge/focus-Performance%20Tools-green)
 
@@ -28,7 +31,7 @@ Unity, C#, .NET, Python, FastAPI, RAG, Ollama, ChromaDB, C++, SDL2, OpenGL, Powe
 
 ## Portfolio
 
-- Portfolio website: [Portfolio](https://fahri-aybars-barut.vercel.app/)
+- Portfolio website: [Portfolio](https://aybarsbarut.com/)
 - LinkedIn: [Fahri Aybars Barut](https://www.linkedin.com/in/fahriaybarsbarut1853/)
 
 ## SEO Keywords
